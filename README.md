@@ -9,3 +9,8 @@ Know that:
 
 >  simple learning algorithm + good training data is better than sophisticated algorithm.  
 
+
+####Update: 2016-4-18  
+	tensorflow used  
+
+
