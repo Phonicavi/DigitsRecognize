@@ -12,5 +12,6 @@ Know that:
 
 ####Update: 2016-4-18  
 	tensorflow used  
+	thanks for technical support from [jikexueyuan](http://wiki.jikexueyuan.com/project/tensorflow-zh/tutorials/mnist_beginners.html)  
 
 
